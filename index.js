@@ -5,6 +5,7 @@
 const PAGES = [
   "Confidential_Records_Archived_2025-11-01.html",
   "The_Loop_Closes_2025-11-01.html",
+  "The_Turning_Point_2025-10-31.html",
   "Breaking_the_Silence_2025-10-31.html",
   "The_First_Dose_2025-10-31.html",
   "Inner_Child_Re-meeting_2025-10-30.html",
