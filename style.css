@@ -37,7 +37,9 @@ h2 {
     padding-bottom: 0.3em;
     font-weight: 700;
 }
-
+p {
+    line-height: 2rem;
+}
 .section {
     margin-top: 1em;
 }
