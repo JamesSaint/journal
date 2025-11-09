@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
+::selection { background-color: #C9B694; color: #EEEEEE; }
 body {
     font-family: Montserrat, sans-serif;
     background-color: #EEEEEE;
