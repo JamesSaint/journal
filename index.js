@@ -3,7 +3,7 @@
 // Update this list when you add a page.
 // Order doesn't matter; code sorts by any date in the filename.
 const PAGES = [
- // "When-Love-Stops-Being-Shared_2025-11-10.html",
+  "When-Love-Stops-Being-Shared_2025-11-10.html",
  "2025-11-07-paddy-feels-it-too.html",
   "Why-I-Stayed-2025-11-06.html",
   "Naming_What_It_Was_2025-11-05.html",
