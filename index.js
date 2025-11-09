@@ -10,7 +10,7 @@ const PAGES = [
 //  "Transparency-And-Ai-Assistive-Tools-2025-11-04.html",
   "Why_People_Fear_Those_Who_See_Too_Much_2025-11-03.html",
   "How_to_Approach_Pain_2025-10-30.html",
-  "Louisa_Witness_2025-11-02.html",
+ // "Louisa_Witness_2025-11-02.html",
 //  "The_Turning_Point_2025-11-02.html",
 //  "Confidential_Records_Archived_2025-11-01.html",
   "The_Loop_Closes_2025-11-01.html",
