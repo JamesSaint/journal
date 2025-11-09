@@ -15,7 +15,7 @@ const PAGES = [
   "The_Turning_Point_2025-11-02.html",
   "The_Loop_Closes_2025-11-01.html",
   "The_First_Dose_2025-10-31.html",
-  "Witnessing-What-is-Real_2025-10-29.html",
+ // "Witnessing-What-is-Real_2025-10-29.html",
   "what_I_have_carried_29-10-2025.html",
   "A_Letter_to_the_Ghost_of_a_Friend_2025-10-28.html",
   "Witness_of_1996_2025-10-28.html",
