@@ -37,9 +37,11 @@ h2 {
     padding-bottom: 0.3em;
     font-weight: 700;
 }
+
 p {
     line-height: 2rem;
 }
+
 .section {
     margin-top: 1em;
 }
@@ -61,6 +63,25 @@ a {
     color: #003366;
     font-weight: 600;
     text-decoration: none;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 1.5em;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 0.75em;
+    border: 1px solid #C9B694;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 .meta {
@@ -93,21 +114,23 @@ footer {
         font-weight: normal;
     }
 }
-    .video-wrap {
-      position: relative;
-      width: 100%;
-      aspect-ratio: 16 / 9;
-      background: #000;
-      border: 1px solid #C9B694;
-    }
-    .video-wrap iframe {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      border: 0;
-    }
 
-    figcaption {
-        text-align: center;
-    }
+.video-wrap {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #000;
+    border: 1px solid #C9B694;
+}
+
+.video-wrap iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+figcaption {
+    text-align: center;
+}
