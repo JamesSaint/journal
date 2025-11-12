@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-::selection { background-color: #C9B694; color: #EEEEEE; }
+
+::selection {
+    background-color: #C9B694;
+    color: #EEEEEE;
+}
+
 body {
     font-family: Montserrat, sans-serif;
     background-color: #EEEEEE;
@@ -87,6 +92,14 @@ th {
 .meta {
     font-size: 0.85rem;
     opacity: 0.9;
+}
+
+blockquote {
+    margin: 0 0 1rem 0;
+    padding-left: 1rem;
+    border-left: 3px solid #C9B694;
+    font-style: italic;
+    background: rgba(201, 182, 148, 0.08);
 }
 
 footer {
