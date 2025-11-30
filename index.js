@@ -3,6 +3,7 @@
 // Update this list when you add a page.
 // Order doesn't matter; code sorts by any date in the filename.
 const PAGES = [
+  "2025-11-30_Neurological_Pain.html",
   "Why_do_you_Persist_2025-11-19.html",
   "2025-11-17-justice-ritual.html",
   "The_Letter_That_Named_It_11-11-2025.html",
