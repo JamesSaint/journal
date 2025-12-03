@@ -8,8 +8,7 @@
   <link rel="stylesheet" href="https://jamessaint.github.io/journal/style.css" />
 </head>
 <body>
-  <main class="journal-entry" role="main">
-    <article>
+  <main class="content" role="main">
       <header>
         <h1>Tired Nervous system</h1>
         <p class="meta">Date: 2025-12-03</p>
@@ -30,7 +29,27 @@
 
         <p>Maybe this is the beginning of giving myself the softness I keep wishing someone else would offer. Maybe the witnessing starts here, with me, speaking it plainly: I am worn out, I am still here, and I am doing the best I can with the body and heart I have.</p>
       </section>
-    </article>
-  </main>
+  <!-- Footer -->
+  <footer class="site-footer mt-4" role="contentinfo" aria-label="Site footer">
+    <div class="footer-container text-center">
+      <hr class="footer-rule" />
+      <div class="footer-note mb-1">
+        Private & Confidential.
+      </div>
+      <div class="footer-copy">
+        © <span id="copy-year"></span> James Saint. All rights reserved.
+      </div>
+    </div>
+  </footer>
+
+  <!-- Year Autoupdate -->
+  <script>
+    (function () {
+      var y = new Date().getFullYear();
+      var el = document.getElementById('copy-year');
+      if (el) el.textContent = y;
+    })();
+  </script>
+      </main>
 </body>
 </html>
